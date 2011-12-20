@@ -1,1 +1,0 @@
-python tools/playgame.py "python MyBot.py" "python tools/sample_bots/python/HunterBot.py" --map_file tools/maps/random_walk/random_walk_02p_01.map --log_dir game_logs --turns 200 --player_seed 7 --turntime 500 --verbose -e -I -O -E 
