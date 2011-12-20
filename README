@@ -1,1 +1,11 @@
-Hello World
+Hello
+
+This was my quick attempt at designing bots for aichallenge.org
+
+The base algorithm I used was value iteration, modded base code provided by berkeley (http://inst.eecs.berkeley.edu/~cs188/pacman/projects/reinforcement/reinforcement.html)
+
+The main file is anttools\myBot.py
+
+Run any of the .bat files.
+
+Enjoy :)
