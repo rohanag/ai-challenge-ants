@@ -1,0 +1,1 @@
+python tools/playgame.py "python MyBot.py" "python tools/sample_bots/python/HunterBot.py" "python tools/sample_bots/python/HunterBot.py" "python tools/sample_bots/python/HunterBot.py" --map_file maze_p04_07.map --log_dir game_logs --turns 300 --player_seed 7 --turntime 800 --verbose -e -I -O -E 
